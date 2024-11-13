@@ -18,3 +18,6 @@ the `Output Folder`: a folder in which to save the output data following image a
 the `Input Folder`: a folder that contains the image files which have the same staining (IF or H&E ) to be analyzed;<br>
 the `Sample Type `: Specifing the staining technique as "IHC-H&E2" through the drop-down list;<br>
 the `Output Folder`: a folder in which to save the output data following image analysis.;<br>
+## Help
+In case of difficulties using the plugin, create an issue in the following link so we or someone from the community can help you:
+https://github.com/ZhangHongbo-Lab/Muscle-Smarter/issues.
