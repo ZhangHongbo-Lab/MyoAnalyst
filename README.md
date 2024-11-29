@@ -11,11 +11,11 @@ Thank you for your interest in MyoAnalyst. it is an imageJ (FIJI) plugin to segm
 ## Usage and Documentation
 ### 1. segmentation and measure skeleta muscle cross-section stained by immunofluorescence (IF): <br>
 It is worth noting that for images stanined by immunofluorescence, single channel images of myofiber boundary staining are only required;<br>
-the `Input Folder`: a folder that contains the image files which have the same staining (IF or H&E ) to be analyzed;<br>
+the `Input Folder`: a folder that contains the IF-stained images;<br>
 the `Sample Type `: Specifing the staining technique as "IF" through the drop-down list;<br>
 the `Output Folder`: a folder in which to save the output data following image analysis.;<br>
 ### 2. segmentation and measure skeleta muscle cross-section stained by H&E: <br>
-the `Input Folder`: a folder that contains the image files which have the same staining (IF or H&E ) to be analyzed;<br>
+the `Input Folder`: a folder that contains the H&E-stained images;<br>
 the `Sample Type `: Specifing the staining technique as "H&E" through the drop-down list;<br>
 the `Output Folder`: a folder in which to save the output data following image analysis.;<br>
 ## Help
