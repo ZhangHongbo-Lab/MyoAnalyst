@@ -1,5 +1,5 @@
 # MyoAnalyst
-Thank you for your interest in MyoAnalyst. it is an imageJ (FIJI) plugin to segment and measure size of skeletal muscle fibers.
+Thank you for your interest in MyoAnalyst. this plugin is an ImageJ/Fiji plugin designed for fully automatic analysis of both immunofluorescence (IF)- and H&E-stained skeletal muscle cross sections.
 
 <p align="center"><img src="figures/Graphical_abstract_v4.jpg" alt="MyoAnalyst" width="100%"></p>
 
